@@ -1,5 +1,5 @@
 <img width="2752" height="1536" alt="da4244c30024f12288644aef" src="https://github.com/user-attachments/assets/e3824049-f70a-4eec-b9f4-bb1c85aa44c6" />
-# 🦅 AKINCI v2.5 - Kriptografik Steganografi Muhafızı
+🦅 AKINCI v2.5 - Kriptografik Steganografi Muhafızı
 
 AKINCI, siber güvenlik operasyonlarında, sızma testlerinde (Red Team / CTF) ve güvenli veri paylaşımlarında gizliliği en üst düzeye çıkarmak için geliştirilmiş, Python tabanlı bir **EOF (End-of-File) Steganografi** aracıdır. 
 
@@ -47,4 +47,3 @@ Herhangi bir kütüphane yüklemenize gerek yoktur. Bilgisayarınızda Python 3'
    git clone https://github.com/ulvi0193/AKINCI-Steganography
    cd AKINCI-Steganography
    python akinci25.py
-```
