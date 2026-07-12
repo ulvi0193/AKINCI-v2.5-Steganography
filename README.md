@@ -44,6 +44,7 @@ Herhangi bir kütüphane yüklemenize gerek yoktur. Bilgisayarınızda Python 3'
 
 1. Depoyu klonlayın:
    ```bash
-   ```git clone https://github.com/ulvi0193/AKINCI-Steganography```
-   ```cd AKINCI-Steganography```
-   ```python akinci25.py```
+   git clone https://github.com/ulvi0193/AKINCI-Steganography
+   cd AKINCI-Steganography
+   python akinci25.py
+```
